@@ -47,5 +47,6 @@
     <color name="key_text_inactive_color_lxx_dark">#80FFFFFF</color>
     <color name="key_hint_letter_color_lxx_dark">#80FFFFFF</color>
     <color name="sliding_key_input_preview_color_lxx_dark">#B380CBC4</color>
-    <color name="key_background_pressed_lxx_dark">#19FFFFFF</color>
+    <!-- DD: shift or backspace background color -->
+    <color name="key_background_pressed_lxx_dark">@android:color/transparent</color>
 </resources>

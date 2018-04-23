@@ -6,7 +6,8 @@
 
         <shape xmlns:android="http://schemas.android.com/apk/res/android"
             android:shape="rectangle">
-            <solid android:color="#4AAAAAAA" />
+            <!-- DD: spacebar pressed color -->
+            <solid android:color="#D80A1C" />
             <corners android:radius="2dp" />
         </shape>
     </item>

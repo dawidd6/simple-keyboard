@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
-    <solid android:color="#80CBC4" />
+    <!-- DD: that oval in right-bottom background color -->
+    <solid android:color="#d80a1c" />
     <size android:width="20dp"
         android:height="20dp" />
 </shape>
